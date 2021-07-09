@@ -38,3 +38,9 @@ Delete a sent message</br>Can be done for files as well!</br>
 - All the messages are concatenated and stored. Once 'Done' command is sent all the chat.txt is cleared and all the files are deleted
 - admininfo.txt stored Admin's information in JSON format
 > {"id": 123456789, "is_bot": false, "first_name": "Ashwin", "username": "abcd", "language_code": "en"}
+
+## group.txt
+- This file contants the group chat ID stored in JSON format.
+- 'Key' is the groups and 'value' is the group's chat ID. I have used Regex in the program for reading the values easily without using if-else, so according 'key' is named. Refer the regex added inside the program.
+- To get group chat ID, add the bot to the group and send a command to the bot. The bot does not allow commands from a group so it replies with 'Not allowed!' followed by group's chat ID and Group's name
+<img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_22-13-02.jpg?raw=true" width=220>
