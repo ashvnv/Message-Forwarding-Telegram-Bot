@@ -33,7 +33,7 @@ Delete a sent message</br>Can be done for files as well!</br>
 
 ## Database management
 - The messages sent by admins are stored in 'Admin/<chat_id_of_admin>/' folder. '<chat_id_of_admin>/' folder stores admininfo.txt and chat.txt along with files (like .png, .pdf etc).
-- chat.txt files stores the messages sent by that admin in JSON format. Messages are saved with message_id as 'key' and text sent as 'value'.
+- chat.txt file stores the messages sent by that admin in JSON format. Messages are saved with message_id as 'key' and text sent as 'value'.
 > {"1825": "hello"}
 - All the messages are concatenated and stored. Once 'Done' command is sent all the chat.txt is cleared and all the files are deleted
 - admininfo.txt stored Admin's information in JSON format
