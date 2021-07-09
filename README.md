@@ -25,3 +25,10 @@ Salent features:
 Sending text and an image  |  Send to EXTC 3Y Group    | Bot forwarded the message | Clearing the messages
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-22-56.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-23-00.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-23-02.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-23-04.jpg?raw=true" width=220>
+</br>
+Delete a sent message</br>Can be done for files as well!</br>
+<img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-35-12.jpg?raw=true" width=220>
+
+---
+
+## Database management
