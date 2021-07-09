@@ -2,8 +2,10 @@
 Forward messages to multiple Telegram groups easily | Hack-X-Tronics 2021 FCRIT
 
 ### The bot program is not well written due to the time constraints of Hack-X-Tronics event but the bot works well!
-- Telegram token removed for security reasons
+> Telegram token removed for security reasons
 ---
+<img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-22-53.jpg?raw=true" width=250>
+
 Salent features:
 - Now no need to manually send messages to different class groups!
 - Using robust Telegram Bot Framework
@@ -19,3 +21,7 @@ Salent features:
 6. Bot can even send images or other documents as well.
 7. There is a 'delete send msg' button sent whenever a message is sent to the bot. Clicking on that button will delete that sent message from the database.
 
+
+Sending text and an image  |  Send to EXTC 3Y Group    | Bot forwarded the message | Clearing the messages
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-22-56.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-23-00.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-23-02.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-23-04.jpg?raw=true" width=220>
