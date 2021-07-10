@@ -10,7 +10,7 @@ Salent features:
 - Now no need to manually send messages to different class groups!
 - Using robust Telegram Bot Framework
 - Send multiple texts,documents,photos
-- Delete a sent message without any hassle
+- Delete a sent message without any hassle [Can delete only the messages sent to the bot. The bot cannot delete the message forwarded to any groups]
 
 ### How to use the bot
 1. Send a message/ messages to the bot
