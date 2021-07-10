@@ -22,7 +22,7 @@ Salent features:
 7. There is a 'delete send msg' button sent whenever a message is sent to the bot. Clicking on that button will delete that sent message from the database.
 
 
-Text and an image sent to bot  |  Send to EXTC 3Y Group    | Bot forwarded the message | Clearing the messages
+Send something to bot  |  Send to EXTC 3Y grp    | Bot forwarded the message | Clearing the messages
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-22-56.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-23-00.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-23-02.jpg?raw=true" width=220> | <img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-23-04.jpg?raw=true" width=220>
 </br>
