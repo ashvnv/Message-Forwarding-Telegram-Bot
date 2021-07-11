@@ -6,7 +6,7 @@ Forward messages to multiple Telegram groups easily | Hack-X-Tronics 2021 FCRIT
 ---
 <img src="https://github.com/ashvnv/Message-Forwarding-Telegram-Bot/blob/main/pics/sending%20msg%20pics/photo_2021-07-09_21-22-53.jpg?raw=true" width=250>
 
-Salent features:
+Features:
 - Now no need to manually send messages to different class groups!
 - Using robust Telegram Bot Framework
 - Send multiple texts,documents,photos
